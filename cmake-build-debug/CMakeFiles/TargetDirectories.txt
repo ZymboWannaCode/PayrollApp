@@ -1,0 +1,4 @@
+C:/Users/Asus VivobooK/CLionProjects/HollyFPayrollFinal _Rev 09Feb/cmake-build-debug/CMakeFiles/HollyFPayroll30012024.dir
+C:/Users/Asus VivobooK/CLionProjects/HollyFPayrollFinal _Rev 09Feb/cmake-build-debug/CMakeFiles/HollyFPayrollFinal.dir
+C:/Users/Asus VivobooK/CLionProjects/HollyFPayrollFinal _Rev 09Feb/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Asus VivobooK/CLionProjects/HollyFPayrollFinal _Rev 09Feb/cmake-build-debug/CMakeFiles/rebuild_cache.dir
